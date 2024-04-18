@@ -1,1 +1,2 @@
 This TypeScript function merges three sorted arrays into one sorted array. It's implemented in a way that efficiently merges the three arrays without requiring extra space.
+From the example, it will show that collection_1 is [1, 3, 5], collection_2 is [7, 6, 5, 4, 3, 0], and collection_3 is [6, 7, 8, 9]. Once it executes the merge function, it will print out the result and compare it to the sort function. If they are the same, it will print true; otherwise, it will print false.
